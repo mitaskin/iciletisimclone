@@ -1,0 +1,29 @@
+.active{
+    border-bottom:1px solid rgb(202, 0, 0);
+}
+
+.searchbar{
+    display: flex;
+    align-items: center;
+    background-color: #d4d4d4;
+    padding: 15px;
+    border-radius: 50px;
+    height: 40px;
+}
+
+.searchbar input{
+    background-color: #d4d4d4;
+    border:none;
+    padding-left:5px;
+}
+ .c-nav-item{
+     padding-left: 30px;
+     padding-right: 30px;
+ }
+
+ .searchbar button{
+     background-color: transparent;
+     border: none;
+ }
+
+ 
